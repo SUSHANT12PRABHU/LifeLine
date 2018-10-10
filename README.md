@@ -1,10 +1,10 @@
 # `LifeLine`
 
-## Introduction:
+## Introduction :
 
 Disaster management is a complex process involving international, national and local organisations each with a distinct role to play. To respond to disaster situations a coordinated effort is required. Earthquakes, cyclones, droughts, floods etc are some of the natural disasters resulting into huge loss of lives and properties. The direct or indirect impacts of disasters, either natural or man-made are colossal damage, destruction and death. Lack or shortage of Medical facilities is a major cause of increase in the number of dead. This application is exclusively meant for Medical care centers and Hospitals for faster and better working during the disasters.
         
-## Objective:
+## Objective :
 
 This app aims to perform 3 major functionalities:
 1. **Rescue-Mail** : This feature of the app will receive the location of the accident or the disaster which will be sent by a victim or a disaster management organization, with the location and preferably a picture of the sight of the disaster.
